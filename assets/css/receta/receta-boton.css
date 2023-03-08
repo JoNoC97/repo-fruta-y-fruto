@@ -5,6 +5,9 @@
     color: #fdfdfd;
     padding: 1rem;
     transition: all .1s ease-in-out;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .receta__boton:hover{
